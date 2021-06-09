@@ -1,2 +1,2 @@
 # LearningDevSecOps
-Continous Security
+Continuous Security
